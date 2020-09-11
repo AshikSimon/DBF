@@ -5956,7 +5956,10 @@ button.close {
 
 @media (min-width:992px) {
     .hero-full-container {
-        padding: 10% 0
+        padding-top: 3%;
+    padding-right: 0px;
+    padding-bottom: 8%;
+    padding-left: 0px;
     }
 }
 
@@ -5993,7 +5996,7 @@ button.close {
 
 .footer-container {
     background-image: url(./assets/images/wave-footer.svg);
-    padding: 60px 0;
+    padding: 2% 0;
     margin-top: 30px
 }
 
@@ -6100,7 +6103,7 @@ h1:after {
 .h2:after,
 h2:after {
     content: "...";
-    color: #1763e9;
+    color: #4457C0;
     display: block
 }
 
@@ -6392,5 +6395,34 @@ label {
     margin-right: 5px
 }
 
-
+.mt-5 {
+    margin-top: 3rem !important;
+  }
+  
+  .mr-5 {
+    margin-right: 3rem !important;
+  }
+  
+  .mb-5 {
+    margin-bottom: 3rem !important;
+  }
+  
+  .ml-5 {
+    margin-left: 3rem !important;
+  }
+  .p-5 {
+    padding: 3rem 3rem !important;
+  }
+  
+  .pt-5 {
+    padding-top: 3rem !important;
+  }
+  
+  .pr-5 {
+    padding-right: 3rem !important;
+  }
+  
+  .pb-5 {
+    padding-bottom: 3rem !important;
+  }
 /*# sourceMappingURL=main.0cf8b554.map*/
